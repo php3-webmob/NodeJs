@@ -1,0 +1,19 @@
+{
+  "name": "expressrouter",
+  "version": "1.0.0",
+  "description": "Express Router",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/php3-webmob/Node.git"
+  },
+  "author": "Php",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}

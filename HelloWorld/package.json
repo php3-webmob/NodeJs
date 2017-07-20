@@ -1,0 +1,22 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "helloWorld",
+  "main": "app.js",
+  "scripts": {
+    "test": "helloworld",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "Hello"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/php3-webmob/Node.git"
+  },
+  "author": "Php",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}

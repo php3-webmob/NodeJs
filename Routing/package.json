@@ -1,0 +1,28 @@
+{
+  "name": "routing",
+  "version": "1.0.0",
+  "description": "Routing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/php3-webmob/Node.git"
+  },
+  "keywords": [
+    "Routing"
+  ],
+  "author": "Php",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/php3-webmob/Node/issues"
+  },
+  "homepage": "https://github.com/php3-webmob/Node#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "html": "^1.0.0",
+    "path": "^0.12.7"
+  }
+}
